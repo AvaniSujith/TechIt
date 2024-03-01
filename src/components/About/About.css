@@ -1,0 +1,22 @@
+/* About.css */
+
+.about-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #2BAE66FF; /* Match the color scheme used in your project */
+  }
+  
+  p {
+    margin-bottom: 15px;
+    color: #000; /* Adjust the text color as needed */
+    font-size: 16px; /* Match the font size used in your project */
+    line-height: 1.5; /* Adjust line height for better readability */
+  }
+  

@@ -1,0 +1,49 @@
+/* ContactUs.css */
+
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #fff; /* Match with existing color scheme */
+  }
+  
+  .contact-info {
+    flex: 1;
+    max-width: 400px;
+    color: #000; /* Match with text color in existing styles */
+  }
+  
+  .contact-form {
+    flex: 1;
+    max-width: 500px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 10px;
+    font-size: 16px; /* Adjust font size to match existing styles */
+    font-weight: bold; /* Match with existing bold text styles */
+  }
+  
+  input,
+  textarea {
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    border: none;
+    padding: 10px 20px;
+    background-color: #2BAE66FF; /* Match with existing button color */
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
